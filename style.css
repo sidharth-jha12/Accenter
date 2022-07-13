@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link{
+    color: black !important;
+    padding-left: 50px !important;
+}
+.nav-item{
+    float: left;
+}
+.solar{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 60px;
+}
+.mm p{
+   color: black;
+   font-size: 13px;
+   margin-top: 11%;
+}
+.logo{
+    width: 8%;
+    height: 30px;
+    float: left;
+}
+.box{
+    width: 70%;
+    margin-left: 15%;
+    height: 300px;
+    background-color: white;
+    margin-bottom: 2%;
+    box-shadow: 3px 3px 3px 3px  silver;
+}
+.box h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    padding-top: 3%;
+    line-height: 40px;
+    margin-top: -5%;
+}
+.box h6{
+    font-size: 20px;
+    text-align: center;
+    color: dimgray;
+    margin-top: 4%;
+}
+.box img{
+    width: 6%;
+    height: 45px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.bar{
+    width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
+.bond{
+    text-align: center;
+}
+.bond h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.bond p{
+    font-size: 20px;
+    line-height: 25px;
+    color: dimgrey;
+}
+.fly{
+    margin-left: 5%;
+}
+.ola{
+    width: 20%;
+    height: 50px;
+}
+.ola h6{
+    font-size: 14px;
+    margin-top: 10%;
+    font-weight: 600;
+}
+.bola{
+    width: 20%;
+    height: 50px;
+    margin-top: 6%;
+    margin-left: 1.5%;
+}
+.bola h6{
+    font-size: 14px;
+    margin-top: 10%;
+    font-weight: 600;
+}
+.bola h3{
+    font-weight: 350;
+   margin-top: 8%;
+}
+.bola h5{
+    font-size: 15px;
+    margin-top: 7%;
+    color: dimgray;
+    font-weight: 350;
+    transition: 0.9s;
+}
+.bola img a:hover{
+    background-color: black;
+    transform: scale(1.2);
+    
+    
+}
+.ola h3{
+   font-weight: 350;
+   margin-top: 8%;
+}
+.ola h5{
+    font-size: 15px;
+    margin-top: 8%;
+    color: dimgray;
+    font-weight: 350;
+}
+.sola{
+    width: 20%;
+    height: 50px;
+    margin-top: 11%;
+    margin-left: 1.5%;
+}
+.sola h6{
+    font-size: 14px;
+    margin-top: 10%;
+    font-weight: 600; 
+}
+.sola h3{
+    font-weight: 350;
+    margin-top: 8%; 
+}
+.sola h5{
+    font-size: 15px;
+    margin-top: 8%;
+    color: dimgray;
+    font-weight: 350;
+}
+.gola{
+    width: 20%;
+    height: 50px;
+    margin-top: 17%;
+    margin-left: 1.5%;
+}
+.gola h6{
+    font-size: 14px;
+    margin-top: 10%;
+    font-weight: 600; 
+}
+.gola h3{
+    font-weight: 350;
+    margin-top: 8%;
+}
+.gola h5{
+    font-size: 15px;
+    margin-top: 8%;
+    color: dimgray;
+    font-weight: 350; 
+}
